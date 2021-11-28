@@ -10,7 +10,13 @@ Move the cell phone to the direction where the ball must roll, according to grav
 
 # Assets 
 
-All assets can be found [Here!](https://gamedevelopment.tutsplus.com/articles/enjoy-these-totally-free-bomberman-inspired-sprites--gamedev-8541)
+All assets for this game can be found [Here!](https://gamedevelopment.tutsplus.com/articles/enjoy-these-totally-free-bomberman-inspired-sprites--gamedev-8541)
+
+
+# Try it out
+
+
+Google play store [here!](https://play.google.com/store/apps/details?id=org.godotengine.mazeball)
 
 
 # Demo
